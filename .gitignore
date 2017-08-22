@@ -1,0 +1,7 @@
+*.iml
+.idea/
+bower_components/
+node_modules/
+*.log
+target/
+*.properties
