@@ -336,7 +336,7 @@ public class QaMaMService {
 
     public static void main(String[] args) {
 
-        port(8083);
+        port(8001);
 
         post("/saveTeamData", new Route() {
             public Object handle(Request request, Response response) throws Exception {
